@@ -1,0 +1,1 @@
+# Karakter_Kelime_Bosluk_Sayisi
